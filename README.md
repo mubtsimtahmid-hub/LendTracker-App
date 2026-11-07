@@ -9,7 +9,7 @@ message straight from the app.
 
 - **Course:** Mobile Application and Development Lab (0613-410), DIU
 - **Student:** Kazi Mubtasim Tahmid Mahin
-- **Student ID:** YOUR_ID_HERE
+- **Student ID:** CS-D-85-22-128741-CT
 
 ## Features
 1. 5 screens: Splash, Login, Register, Home (list), Add/Edit — Activities + Intents, data passed with `putExtra()`
