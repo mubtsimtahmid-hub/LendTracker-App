@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "209495660570",
+    "firebase_url": "https://lendtracker-a9eef-default-rtdb.firebaseio.com",
+    "project_id": "lendtracker-a9eef",
+    "storage_bucket": "lendtracker-a9eef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209495660570:android:eafaf244150b889be4d9a3",
+        "android_client_info": {
+          "package_name": "com.example.lendtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOMtH-ZT2dTyVmt-XqjWzAS6JNMguFMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
